@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&textBg=false&reversal=false"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Junior;I'm+21+years+old;Code+from+Brazil,+PR)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Junior;I'm+21+years+old;Code+from+Brazil,+PR)
 
 <div align="center">  
   <img src="https://streak-stats.demolab.com?user=joaozin135&theme=dark&hide_border=true&border_radius=4&locale=pt_BR" alt="GitHub Streak" />
