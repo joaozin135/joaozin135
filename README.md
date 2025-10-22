@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img src="https://streak-stats.demolab.com?user=joaozin135&theme=dark&hide_border=true&border_radius=4&locale=pt_BR" alt="GitHub Streak" />
-  <img width="41%" height="195px" src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin135&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin135&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
 
 <div align="center">
