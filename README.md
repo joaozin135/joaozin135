@@ -22,15 +22,4 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-<div align="center" >
-  <br>
-  <p align="centre">
-    <b>Visitors Count</b>
-  </p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Joazin135}/count.svg" style=textColor=A93ADB"/>
-  </p> 
-  <br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&textBg=false&reversal=false&section=footer"/>
